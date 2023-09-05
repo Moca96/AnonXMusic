@@ -1,7 +1,7 @@
 {
     "name": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
+    "logo": "https://te.legra.ph/file/6ccf5ee3275c14e02b898.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -52,9 +52,9 @@
         "value": "https://t.me/+Sg_cUuJPFrBiM2E1",
         "required": false
       },
-      "START_IMG": {
-        "description": "START IMG",
-        "value": "https://te.legra.ph/file/6ccf5ee3275c14e02b898.jpg",
+      "SUPPORT_CHANNEL": {
+        "description": "UPDATE CHNNAL LIMK",
+        "value": "https://t.me/Network_Zadkiel",
         "required": false
       },
       "HEROKU_APP_NAME": {

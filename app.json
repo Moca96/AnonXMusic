@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "24124040",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "5929bf41994375da3582c5e865b5c9b2",
         "required": true
       },
       "BOT_TOKEN": {
@@ -34,7 +34,12 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "5842773519",
+        "required": true
+      },
+      "START_IMG_URL": {
+        "description": "BOT START IMG URL.",
+        "value": "https://te.legra.ph/file/d89e6d6a1fd3c2c497eb2.jpg",
         "required": true
       },
       "STRING_SESSION": {
@@ -64,7 +69,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001652831571",
         "required": true
       }
     },
